@@ -33,7 +33,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 📬 Contact  
 For any queries, feel free to reach out via:  
-- LinkedIn: [[Your Profile](https://www.linkedin.com/in/pruthviraj-patil-data-analyst/)](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [[Your Profile](https://www.linkedin.com/in/pruthviraj-patil-data-analyst/)] 
+- Email: [your.email@example.com](pruthviraj.patil3523@gmail.com)  
 
 ---
